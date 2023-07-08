@@ -1,1 +1,1 @@
-This recipe blog is made by Suyash Deep.
+This recipe blog is group project made by Suyash Deep & Jyothsna Niharika.
